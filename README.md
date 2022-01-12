@@ -10,6 +10,9 @@
   <h3 align="center">
     <a href="https://dexbot.io"><strong>Create an account on DEXbot.io »</strong></a>
   </h3>
+  <h3 align="center">
+    <a href="https://github.com/DEXbotLLC/DEXbot_Client/wiki"><strong>Read the Docs to Get Started »</strong></a>
+  </h3>
 </div>
 <br>
 
@@ -22,20 +25,8 @@ DEXbot is designed to sell tokens without a negative impact on the token price b
 
 Users can connect any cryptocurrency wallet (even cold storage wallets). DEXbot allows a user to connect multiple wallets at a time through a single client application, allowing you to automate as many wallets as you want across any supported chain. 
 
-We are extremely focused on security and that is why we open sourced the DEXbot Client Application and have checksums for every release. You can check out the [source code](https://github.com/DEXbotLLC/DEXbot_Client/) and even compile the application binary yourself if you prefer. We built the client application so that is easy to read with comments on every line so even if you are not a developer, you can read through the code. To use DEXbot, a user will need to enter their private key on their local machine but **it is very important to note that DEXbot never retrieves, stores, transmits, or logs your private key**. The DEXbot application is local to your computer, has no persistence and all data is destroyed after the program is terminated. 
- 
-
-<br><br>
-# Getting started
-
-### Create an account
-- Click [here](https://www.dexbot.io) to get started by creating an account with DEXbot.
-
-### Download the DEXbot Client
-- Click [here](https://github.com/DEXbotLLC/DEXbot_Client/wiki/2.-Installation) to download the DEXbot Client.
-
-### Check out the DEXbot Client application source code
-- Click [here](https://github.com/DEXbotLLC/DEXbot_Client/) to view the source code, with line by line comments!
-
-### Releases
-- [View the latest](https://github.com/DEXbotLLC/DEXbot_Client/releases/) binary file releases and download directly without the need to compile your own binary.
+We are extremely focused on security and that is why we open sourced the DEXbot Client Application and have checksums for every release. You can check out the [source code](https://github.com/DEXbotLLC/DEXbot_Client/) and even compile the application binary yourself if you prefer. We built the client application so that is easy to read with comments on every line so even if you are not a developer, you can read through the code. To use DEXbot, a user will need to enter their private key on their local machine but **it is very important to note that DEXbot never retrieves, stores, transmits, or logs your private key**. The DEXbot application is local to your computer, has no persistence and all data is destroyed after the program is terminated.
+<br>
+  <h3 align="center">
+    <a href="https://github.com/DEXbotLLC/DEXbot_Client/wiki"><strong>Read the Docs to Get Started »</strong></a>
+  </h3>
